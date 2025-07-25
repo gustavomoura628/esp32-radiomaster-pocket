@@ -5,5 +5,5 @@ Use PlatformIO on VSCode to Build and Upload.  Should work without any extra con
 
 The code is currently set up so you have to calibrate all channels everytime you boot the Esp32, but it's more of an example code than anything practical.  
 
-![picture.jpg](picture.jpg)  
-![terminal.png](terminal.png)  
+![picture.jpg](images/picture.jpg)  
+![terminal.png](images/terminal.png)  
